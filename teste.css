@@ -1,6 +1,5 @@
 /* 
-    CSS Projeto Automacao Residencial
-    FILIPEFLOP Componentes Eletronicos
+    
 */
 
 root { 
@@ -34,7 +33,7 @@ div.rele1_ligado {
     height: 206px;
     border: none;
 		margin:auto;
-    background: url(lampada_ligada.png) no-repeat left top;
+    background: url(https://raw.githubusercontent.com/polianaasq/ligandocafeteira/master/xicara%20cheua.png) no-repeat left top;
 }
 
 div.rele1_desligado {
@@ -44,7 +43,7 @@ div.rele1_desligado {
     width: 300px;
     height: 206px;
     border: none;
-	background: url(lampada_desligada.png) no-repeat left top;
+	background: url(https://raw.githubusercontent.com/polianaasq/ligandocafeteira/master/xicara%20vazia.png) no-repeat left top;
 }
 
 div.rele2_ligado {
@@ -99,7 +98,7 @@ div.rele2_desligado {
 	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
 	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
 	box-shadow:inset 0px 0px 0px 0px #ffffff;
-	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.1, #16ADFF), color-stop(1, #26A8FF) );
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.1, #a9a9a9), color-stop(1, #333333) );
 	background:-moz-linear-gradient( center top, #16ADFF 5%, #26A8FF 100% );
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#16ADFF', endColorstr='#26A8FF');
 	background-color:#ededed;
